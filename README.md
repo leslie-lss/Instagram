@@ -3,6 +3,9 @@
 
 
 需要填写user的名字
+
 利用getCookie.py获取cookie备用
+
 在instagram的用户主页按下F12，获取对应的query_hash以及cookie中的sessionid
+
 此爬虫还将数据信息存储进入mongodb中，可以选择
